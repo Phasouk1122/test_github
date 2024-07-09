@@ -1,7 +1,8 @@
 package main
-
+ import "fmt"
 func main() {
-	rmt.println("Hello World")
-	rmt.println("Hello World")
-	rmt.println("Hello ")
+
+	
+	fmt.Println("Hello World")
+
 }
